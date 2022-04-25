@@ -8,8 +8,8 @@ Die Heb@AR App ist frei im Android und iOS Appstore zugänglich. Der Source Code
 
 **Dieses Repository beinhaltet:**
 - Ein Änderungsprotokoll aller Versionen der Heb@AR App
-- Manuelle Installationsdatein aller Versionen der Heb@AR App (Android & iOS)
+- Manuelle Installationsdatein aller Versionen der Heb@AR App (Android)
 - Druckdatein der AR-Marker
 - Heb@AR App-spezifische Formulare
 - Videodatein für die Referenzvideos der Szenarien
-- Projektbezogene Publikationen
+- Projektbezogene Publikationen & Studien
