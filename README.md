@@ -1,6 +1,6 @@
 # Die Heb@AR App
 
-![test](HebARLogo.png)
+![HebAR Logo](HebARLogo.png)
 
 Die Heb@AR App ist eine Augmented Reality Trainingsapp für Android und iOS Smartphones, in der hebammenspezfische Inhalte vermittelt und praktisch geübt werden können. Die Heb@AR App wurde während [Projekt Heb@AR](https://www.hs-gesundheit.de/hebar/uebersicht-hebar) vom [Mixed Reality Labor der Hochschule Emden/Leer](https://mixality.de/hebar/) in Zusammenarbeit mit den Projektpartnern entwickelt um die Erkentnisse des Projekts zugänglicher zu machen.
 
@@ -18,3 +18,5 @@ Die Heb@AR App ist frei im Android und iOS Appstore zugänglich. Der Source Code
   -  [Reanimation eines Neugeborenen - Mehrbenutzer Version](https://www.youtube.com/watch?v=mEp0kCC-Sug&ab_channel=JonasBlattgerste)
   -  [Reanimation eines Neugeborenen - Virtuelle Version]()
   -  [Anatomie des weiblichen Beckens]()
+
+![HebAR Training Beispiele](HebAR_Trainings_Beispiel.png)
