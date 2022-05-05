@@ -13,11 +13,11 @@ Die Heb@AR App ist frei im Android und iOS Appstore zugänglich. Der Source Code
 - Druckdatein der AR-Marker für das [Sectio](https://github.com/Mixality/HebAR/blob/main/AR-Marker/HebAR_Marker_Sectio_DinA1.pdf) und [Reanimation](https://github.com/Mixality/HebAR/blob/main/AR-Marker/HebAR_Marker_Reanimation_DinA2.pdf) Szenario
 - Heb@AR App-spezifische [Formulare](https://github.com/Mixality/HebAR/tree/main/Formulare), zB das [Formular für Feedback und Vorschläge](https://github.com/Mixality/HebAR/blob/main/Formulare/HebAR_Formular_Feedback.pdf)
 - Links zu den Referenzvideos der 5 Szenarien:
-  -  [Vorbereitung einer Notfalltokolyse](https://www.youtube.com/watch?v=CUyuzIkvvuk&ab_channel=JonasBlattgerste)
-  -  [Vorbereitung einer Schwangeren auf eine Sectio Caesarea](https://www.youtube.com/watch?v=dw4dJnryNMs&ab_channel=JonasBlattgerste)
-  -  [Reanimation eines Neugeborenen](https://www.youtube.com/watch?v=KoGDslW4abM&ab_channel=JonasBlattgerste)
-  -  [Reanimation eines Neugeborenen - Mehrbenutzer Version](https://www.youtube.com/watch?v=mEp0kCC-Sug&ab_channel=JonasBlattgerste)
-  -  [Reanimation eines Neugeborenen - Virtuelle Version](https://www.youtube.com/watch?v=FB7izeXjDWo&t=263s&ab_channel=JonasBlattgerste)
-  -  [Anatomie des weiblichen Beckens](https://www.youtube.com/watch?v=arTJ3lrHRkw&t=213s&ab_channel=JonasBlattgerste)
+  -  [Vorbereitung einer Notfalltokolyse](https://www.youtube.com/watch?v=CUyuzIkvvuk)
+  -  [Vorbereitung einer Schwangeren auf eine Sectio Caesarea](https://www.youtube.com/watch?v=dw4dJnryNMs)
+  -  [Reanimation eines Neugeborenen](https://www.youtube.com/watch?v=KoGDslW4abM)
+  -  [Reanimation eines Neugeborenen - Mehrbenutzer Version](https://www.youtube.com/watch?v=mEp0kCC-Sug)
+  -  [Reanimation eines Neugeborenen - Virtuelle Version](https://www.youtube.com/watch?v=FB7izeXjDWo)
+  -  [Anatomie des weiblichen Beckens](https://www.youtube.com/watch?v=arTJ3lrHRkw)
 
 ![HebAR Training Beispiele](HebAR_Trainings_Beispiel.png)
